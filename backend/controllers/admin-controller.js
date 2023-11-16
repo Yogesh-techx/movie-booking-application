@@ -91,3 +91,4 @@ const getAdminByID = async (req, res, next) => {
 };
  
 module.exports = {addAdmin, adminLogin, getAdmins, getAdminByID}
+
